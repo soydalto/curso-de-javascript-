@@ -1,4 +1,4 @@
-
+//este es el primer cambio, quiero ver que onda
 dineroCofla = prompt("cuanto dinero tienes cofla?");
 dineroRoberto = prompt("cuanto dinero tienes roberto?");
 dineroPedro = prompt("cuanto dinero tienes pedro?");
