@@ -1,4 +1,4 @@
-//este es el primer cambio, quiero ver que onda
+//este es el primer cambio, quiero ver que onda y ahora veo si pinta el pull
 dineroCofla = prompt("cuanto dinero tienes cofla?");
 dineroRoberto = prompt("cuanto dinero tienes roberto?");
 dineroPedro = prompt("cuanto dinero tienes pedro?");
