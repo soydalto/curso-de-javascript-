@@ -1,0 +1,83 @@
+{/*   Problema a de Cofla
+body{
+	color: #333;
+	font-family: sans-serif;
+	background: #000;
+}
+input{
+	display: block;
+	padding: 9px;
+	margin: 12px 5%;
+	box-sizing: border-box;
+	border: none;
+	border-top: 2px solid #48e;
+	background: transparent;
+	outline: none !important;
+	transition: background 0.3s;
+	width: 100%;
+	color: #fff;
+}
+input::placeholder{
+	color: #48e;
+	transition: color 0.3s;
+}
+input:hover{
+	background: #26a;
+}
+input:hover::placeholder{
+	color: #fff;
+}
+input[type="submit"]{
+	width: 60%;
+	padding: 12px;
+	background: #26a;
+	color: #fff;
+	margin: 24px 0;
+	margin-bottom: 12px;
+}
+input[type="submit"]:hover{
+	background: #048;
+}
+form{
+	width: 86%;
+	margin: auto;
+	background: #013;
+	padding: 30px;
+}
+h2{
+	color: #fff;
+	margin-bottom: 36px;
+}
+
+.green{
+	color: #9c9;
+}
+.red{
+	color: #c99;
+}
+*/
+}
+
+{ /* Problema b de Cofla */
+/*.grid-container{
+	display: grid;
+	grid-template-rows: 50px;
+	grid-template-columns: repeat(4, minmax(min-content,max-content));
+	grid-auto-rows: 50px;
+	
+}
+.grid-container .grid-item{
+	padding: 10px;
+	border: 2px solid #26a;
+	margin: 3px;
+	background: #fff;
+}
+.boton-confirmar{
+	padding: 9px 40px;
+	background: #48e;
+	color: #fff;
+	border: none;
+	margin: 30px;
+}
+*/
+}
