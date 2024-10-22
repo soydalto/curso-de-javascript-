@@ -1,0 +1,29 @@
+/*
+Métodos Transformadores de cadenas OBSOLETOS o No Recomendados
+big()
+blink()
+bold()
+fixed()
+fontcolor()
+fontsize()
+italics()
+anchor()
+link()
+small()
+strike()
+sub()
+sup()
+
+
+Métodos específicos obsoletos
+observe()
+unobserve()
+getNotifier()
+watch()
+unwatch()
+toSource()
+escape() (la función)
+unescape() (la función)
+uneval como método
+eval como método
+*/
